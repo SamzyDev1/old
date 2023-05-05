@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\i386-win32\fpc.exe" Date="1449426723"/>
+  <Params Value=" -Twin64 -Px86_64 -Rintel -MDelphi -Scghi -O3 -OoREGVAR -Xs -l -vewnhibq &quot;-FiC:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\speedhack\unitbin&quot; -FuC:\lazarus\lcl\units\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64 -FuC:\lazarus\components\freetype\lib\x86_64-win64 -FuC:\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\lazarus\packager\units\x86_64-win64 &quot;-FuC:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\speedhack\&quot; &quot;-FUC:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\speedhack\unitbin\&quot; &quot;-FEC:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\bin\&quot; &quot;-oC:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\bin\speedhack-x86_64.dll&quot; -dLCL -dLCLwin32 -dUSECS speedhack.lpr"/>
+</CONFIG>

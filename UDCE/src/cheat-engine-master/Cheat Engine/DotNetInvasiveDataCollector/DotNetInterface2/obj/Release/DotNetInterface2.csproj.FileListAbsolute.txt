@@ -1,0 +1,6 @@
+C:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\bin\autorun\dlls\DotNetInterface.dll
+C:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\bin\autorun\dlls\DotNetInterface.pdb
+C:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\DotNetInvasiveDataCollector\DotNetInterface2\obj\Release\DotNetInterface2.csproj.AssemblyReference.cache
+C:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\DotNetInvasiveDataCollector\DotNetInterface2\obj\Release\DotNetInterface2.csproj.CoreCompileInputs.cache
+C:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\DotNetInvasiveDataCollector\DotNetInterface2\obj\Release\DotNetInterface.dll
+C:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\DotNetInvasiveDataCollector\DotNetInterface2\obj\Release\DotNetInterface.pdb

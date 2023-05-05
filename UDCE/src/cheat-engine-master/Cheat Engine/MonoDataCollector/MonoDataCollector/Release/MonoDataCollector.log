@@ -1,0 +1,11 @@
+﻿  MonoDataCollector.cpp
+  PipeServer.cpp
+  dllmain.cpp
+     Creating library ..\..\bin\autorun\dlls\MonoDataCollector32.lib and object ..\..\bin\autorun\dlls\MonoDataCollector32.exp
+MonoDataCollector32.exp : warning LNK4070: /OUT:MonoDataCollector.dll directive in .EXP differs from output filename '..\..\bin\autorun\dlls\MonoDataCollector32.dll'; ignoring directive
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 634 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+MonoDataCollector32.exp : warning LNK4070: /OUT:MonoDataCollector.dll directive in .EXP differs from output filename '..\..\bin\autorun\dlls\MonoDataCollector32.dll'; ignoring directive
+  MonoDataCollector.vcxproj -> C:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\bin\autorun\dlls\MonoDataCollector32.dll

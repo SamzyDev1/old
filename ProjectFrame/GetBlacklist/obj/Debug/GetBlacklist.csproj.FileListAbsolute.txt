@@ -1,0 +1,11 @@
+C:\Users\Sam\Documents\GitHub\ProjectFrame\GetBlacklist\bin\Debug\GetBlacklist.exe.config
+C:\Users\Sam\Documents\GitHub\ProjectFrame\GetBlacklist\bin\Debug\GetBlacklist.exe
+C:\Users\Sam\Documents\GitHub\ProjectFrame\GetBlacklist\bin\Debug\GetBlacklist.pdb
+C:\Users\Sam\Documents\GitHub\ProjectFrame\GetBlacklist\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sam\Documents\GitHub\ProjectFrame\GetBlacklist\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sam\Documents\GitHub\ProjectFrame\GetBlacklist\obj\Debug\GetBlacklist.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\ProjectFrame\GetBlacklist\obj\Debug\GetBlacklist.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sam\Documents\GitHub\ProjectFrame\GetBlacklist\obj\Debug\GetBlacklist.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\ProjectFrame\GetBlacklist\obj\Debug\GetBlacklist.csproj.CopyComplete
+C:\Users\Sam\Documents\GitHub\ProjectFrame\GetBlacklist\obj\Debug\GetBlacklist.exe
+C:\Users\Sam\Documents\GitHub\ProjectFrame\GetBlacklist\obj\Debug\GetBlacklist.pdb

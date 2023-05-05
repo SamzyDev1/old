@@ -1,0 +1,2 @@
+Disable Driver Signature Enforcement: "EfiDSEFix.exe -d"
+Enable Driver Signature Enforcement: "EfiDSEFix.exe -e" (DO THIS BEFORE GAME LAUNCH)

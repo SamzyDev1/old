@@ -1,0 +1,10 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  PipeServer.cpp
+  MonoDataCollector.cpp
+  Generating Code...
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  dllmain.cpp
+Pipe.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     Creating library ..\..\bin\autorun\dlls\MonoDataCollector32.lib and object ..\..\bin\autorun\dlls\MonoDataCollector32.exp
+MonoDataCollector32.exp : warning LNK4070: /OUT:MonoDataCollector.dll directive in .EXP differs from output filename '..\..\bin\autorun\dlls\MonoDataCollector32.dll'; ignoring directive
+  MonoDataCollector.vcxproj -> C:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\bin\autorun\dlls\MonoDataCollector32.dll

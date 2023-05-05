@@ -1,0 +1,22 @@
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\GetBlacklist\bin\Release\GetBlacklist.exe.config
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\GetBlacklist\bin\Release\GetBlacklist.exe
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\GetBlacklist\bin\Release\GetBlacklist.pdb
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\GetBlacklist\bin\Release\Newtonsoft.Json.dll
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\GetBlacklist\bin\Release\Newtonsoft.Json.xml
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\GetBlacklist\obj\Release\GetBlacklist.csproj.AssemblyReference.cache
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\GetBlacklist\obj\Release\GetBlacklist.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\GetBlacklist\obj\Release\GetBlacklist.csproj.CoreCompileInputs.cache
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\GetBlacklist\obj\Release\GetBlacklist.csproj.CopyComplete
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\GetBlacklist\obj\Release\GetBlacklist.exe
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\GetBlacklist\obj\Release\GetBlacklist.pdb
+C:\Users\Sam\Documents\GitHub\ProjectFrame\GetBlacklist\bin\Release\GetBlacklist.exe.config
+C:\Users\Sam\Documents\GitHub\ProjectFrame\GetBlacklist\bin\Release\GetBlacklist.exe
+C:\Users\Sam\Documents\GitHub\ProjectFrame\GetBlacklist\bin\Release\GetBlacklist.pdb
+C:\Users\Sam\Documents\GitHub\ProjectFrame\GetBlacklist\bin\Release\Newtonsoft.Json.dll
+C:\Users\Sam\Documents\GitHub\ProjectFrame\GetBlacklist\bin\Release\Newtonsoft.Json.xml
+C:\Users\Sam\Documents\GitHub\ProjectFrame\GetBlacklist\obj\Release\GetBlacklist.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\ProjectFrame\GetBlacklist\obj\Release\GetBlacklist.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sam\Documents\GitHub\ProjectFrame\GetBlacklist\obj\Release\GetBlacklist.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\ProjectFrame\GetBlacklist\obj\Release\GetBlacklist.csproj.CopyComplete
+C:\Users\Sam\Documents\GitHub\ProjectFrame\GetBlacklist\obj\Release\GetBlacklist.exe
+C:\Users\Sam\Documents\GitHub\ProjectFrame\GetBlacklist\obj\Release\GetBlacklist.pdb

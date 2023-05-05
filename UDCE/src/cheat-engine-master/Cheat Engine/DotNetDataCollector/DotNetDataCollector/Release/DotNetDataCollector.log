@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  stdafx.cpp
+  Pipe.cpp
+  DotNetDataCollector.cpp
+C:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\DotNetDataCollector\DotNetDataCollector\PipeServer.h(29,2): warning C4091: 'typedef ': ignored on left of 'COR_FIELDEX' when no variable is declared
+  MyICLRDebuggingLibraryProvider.cpp
+  MyICorDebugDataTarget.cpp
+  PipeServer.cpp
+C:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\DotNetDataCollector\DotNetDataCollector\PipeServer.h(29,2): warning C4091: 'typedef ': ignored on left of 'COR_FIELDEX' when no variable is declared
+C:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\DotNetDataCollector\DotNetDataCollector\PipeServer.cpp(230,11): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\DotNetDataCollector\DotNetDataCollector\PipeServer.cpp(521,12): warning C4101: 'ModuleToken': unreferenced local variable
+C:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\DotNetDataCollector\DotNetDataCollector\PipeServer.cpp(776,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\DotNetDataCollector\DotNetDataCollector\PipeServer.cpp(1269,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\DotNetDataCollector\DotNetDataCollector\PipeServer.cpp(1206,19): warning C4101: 'type': unreferenced local variable
+C:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\DotNetDataCollector\DotNetDataCollector\PipeServer.cpp(1207,20): warning C4101: 'c': unreferenced local variable
+C:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\DotNetDataCollector\DotNetDataCollector\PipeServer.cpp(1473,24): warning C4244: '=': conversion from 'ULONG64' to 'DWORD', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\DotNetDataCollector\DotNetDataCollector\MyICLRDebuggingLibraryProvider.cpp(76): warning C4715: 'CMyICLRDebuggingLibraryProvider::ProvideLibrary': not all control paths return a value
+  All 274 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+CorGuids.lib(cordebug_i.obj) : warning LNK4099: PDB '' was not found with 'CorGuids.lib(cordebug_i.obj)' or at ''; linking object as if no debug info
+  DotNetDataCollector.vcxproj -> C:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\bin\DotNetDataCollector32.exe

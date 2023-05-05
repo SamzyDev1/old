@@ -1,0 +1,54 @@
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\ProjectFrame\bin\Release\FrameV2.exe.config
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\ProjectFrame\bin\Release\FrameV2.exe
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\ProjectFrame\bin\Release\FrameV2.pdb
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\ProjectFrame\bin\Release\discord-webhook-client.dll
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\ProjectFrame\bin\Release\Newtonsoft.Json.dll
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\ProjectFrame\bin\Release\notifique-me.dll
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\ProjectFrame\bin\Release\Polly.dll
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\ProjectFrame\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\ProjectFrame\bin\Release\Newtonsoft.Json.xml
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\ProjectFrame\bin\Release\Polly.pdb
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\ProjectFrame\bin\Release\Polly.xml
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\ProjectFrame\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\ProjectFrame\obj\Release\FrameV2.csproj.AssemblyReference.cache
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\ProjectFrame\obj\Release\FrameV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\ProjectFrame\obj\Release\FrameV2.csproj.CoreCompileInputs.cache
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\ProjectFrame\obj\Release\FrameV2.csproj.CopyComplete
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\ProjectFrame\obj\Release\FrameV2.exe
+C:\Users\KAOTIC Robotics\Desktop\Code\2023\SamPrivate\Project Frame\ProjectFrame\obj\Release\FrameV2.pdb
+C:\Users\KAOTIC Robotics\Desktop\Code\ProjectFrame\ProjectFrame\bin\Release\FrameV2.exe.config
+C:\Users\KAOTIC Robotics\Desktop\Code\ProjectFrame\ProjectFrame\bin\Release\FrameV2.exe
+C:\Users\KAOTIC Robotics\Desktop\Code\ProjectFrame\ProjectFrame\bin\Release\FrameV2.pdb
+C:\Users\KAOTIC Robotics\Desktop\Code\ProjectFrame\ProjectFrame\bin\Release\discord-webhook-client.dll
+C:\Users\KAOTIC Robotics\Desktop\Code\ProjectFrame\ProjectFrame\bin\Release\Newtonsoft.Json.dll
+C:\Users\KAOTIC Robotics\Desktop\Code\ProjectFrame\ProjectFrame\bin\Release\notifique-me.dll
+C:\Users\KAOTIC Robotics\Desktop\Code\ProjectFrame\ProjectFrame\bin\Release\Polly.dll
+C:\Users\KAOTIC Robotics\Desktop\Code\ProjectFrame\ProjectFrame\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\KAOTIC Robotics\Desktop\Code\ProjectFrame\ProjectFrame\bin\Release\Newtonsoft.Json.xml
+C:\Users\KAOTIC Robotics\Desktop\Code\ProjectFrame\ProjectFrame\bin\Release\Polly.pdb
+C:\Users\KAOTIC Robotics\Desktop\Code\ProjectFrame\ProjectFrame\bin\Release\Polly.xml
+C:\Users\KAOTIC Robotics\Desktop\Code\ProjectFrame\ProjectFrame\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\KAOTIC Robotics\Desktop\Code\ProjectFrame\ProjectFrame\obj\Release\FrameV2.csproj.AssemblyReference.cache
+C:\Users\KAOTIC Robotics\Desktop\Code\ProjectFrame\ProjectFrame\obj\Release\FrameV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAOTIC Robotics\Desktop\Code\ProjectFrame\ProjectFrame\obj\Release\FrameV2.csproj.CoreCompileInputs.cache
+C:\Users\KAOTIC Robotics\Desktop\Code\ProjectFrame\ProjectFrame\obj\Release\FrameV2.csproj.CopyComplete
+C:\Users\KAOTIC Robotics\Desktop\Code\ProjectFrame\ProjectFrame\obj\Release\FrameV2.exe
+C:\Users\KAOTIC Robotics\Desktop\Code\ProjectFrame\ProjectFrame\obj\Release\FrameV2.pdb
+C:\Users\Sam\Documents\GitHub\ProjectFrame\ProjectFrame\bin\Release\FrameV2.exe.config
+C:\Users\Sam\Documents\GitHub\ProjectFrame\ProjectFrame\bin\Release\FrameV2.exe
+C:\Users\Sam\Documents\GitHub\ProjectFrame\ProjectFrame\bin\Release\FrameV2.pdb
+C:\Users\Sam\Documents\GitHub\ProjectFrame\ProjectFrame\bin\Release\discord-webhook-client.dll
+C:\Users\Sam\Documents\GitHub\ProjectFrame\ProjectFrame\bin\Release\Newtonsoft.Json.dll
+C:\Users\Sam\Documents\GitHub\ProjectFrame\ProjectFrame\bin\Release\notifique-me.dll
+C:\Users\Sam\Documents\GitHub\ProjectFrame\ProjectFrame\bin\Release\Polly.dll
+C:\Users\Sam\Documents\GitHub\ProjectFrame\ProjectFrame\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Sam\Documents\GitHub\ProjectFrame\ProjectFrame\bin\Release\Newtonsoft.Json.xml
+C:\Users\Sam\Documents\GitHub\ProjectFrame\ProjectFrame\bin\Release\Polly.pdb
+C:\Users\Sam\Documents\GitHub\ProjectFrame\ProjectFrame\bin\Release\Polly.xml
+C:\Users\Sam\Documents\GitHub\ProjectFrame\ProjectFrame\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Sam\Documents\GitHub\ProjectFrame\ProjectFrame\obj\Release\FrameV2.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\ProjectFrame\ProjectFrame\obj\Release\FrameV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sam\Documents\GitHub\ProjectFrame\ProjectFrame\obj\Release\FrameV2.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\ProjectFrame\ProjectFrame\obj\Release\FrameV2.csproj.CopyComplete
+C:\Users\Sam\Documents\GitHub\ProjectFrame\ProjectFrame\obj\Release\FrameV2.exe
+C:\Users\Sam\Documents\GitHub\ProjectFrame\ProjectFrame\obj\Release\FrameV2.pdb

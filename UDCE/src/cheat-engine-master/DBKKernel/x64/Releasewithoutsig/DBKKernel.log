@@ -1,0 +1,116 @@
+﻿  Building 'DBKKernel' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Releasewithoutsig\DBK64.inf
+  Stamping [Version] section with DriverVer=04/30/2023,22.45.34.931
+C:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\DBKKernel\DBK64.inf(5-5): warning 1324: [Version] section should specify PnpLockdown=1.
+  Assembling amd64\dbkfunca.asm...
+  Assembling amd64\debuggera.asm...
+  Assembling amd64\noexceptionsa.asm...
+  Assembling amd64\ultimapa.asm...
+  Assembling amd64\vmxhelpera.asm...
+  Assembling amd64\vmxoffloada.asm...
+  DBKDrvr.c
+  DBKFunc.c
+  debugger.c
+  deepkernel.c
+  interruptHook.c
+  IOPLDispatcher.c
+  memscan.c
+  noexceptions.c
+  processlist.c
+  threads.c
+  ultimap.c
+  ultimap2.c
+  apic.c
+  vmxhelper.c
+  vmxoffload.c
+  Generating Code...
+  DBKKernel.vcxproj -> C:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\bin\samtibirus64.sys
+  
+  The following certificates were considered:
+      Issued to: WDKTestCert SamzyDev,133273862861599337
+  
+      Issued by: WDKTestCert SamzyDev,133273862861599337
+  
+      Expires:   Fri Apr 29 19:00:00 2033
+  
+      SHA1 hash: F55D02C03FC78CADC73E1DC54ADA792FA9C55602
+  
+  
+      Issued to: Adobe Content Certificate 10-5
+  
+      Issued by: Adobe Intermediate CA 10-3
+  
+      Expires:   Mon Aug 18 08:18:42 2025
+  
+      SHA1 hash: F0BD97B4EC6CD8B71C35631738259CF9F2E54381
+  
+  
+      Issued to: Adobe Intermediate CA 10-3
+  
+      Issued by: Adobe Root CA 10-3
+  
+      Expires:   Sat Aug 04 12:37:58 2068
+  
+      SHA1 hash: D1DF7F06B769BCCB3F4479041EC1F06E9CD3CB1A
+  
+  
+      Issued to: Adobe Intermediate CA 10-4
+  
+      Issued by: Adobe Root CA 10-3
+  
+      Expires:   Sat Aug 04 12:37:59 2068
+  
+      SHA1 hash: BF89E52F8D681360E6B84941BD2F9BC0093309F6
+  
+  
+      Issued to: localhost
+  
+      Issued by: localhost
+  
+      Expires:   Sun Apr 21 20:44:30 2024
+  
+      SHA1 hash: A074B7A60C166ABC8093C2E353CADACA1B2AE297
+  
+  
+      Issued to: Adobe Content Certificate 10-6
+  
+      Issued by: Adobe Intermediate CA 10-4
+  
+      Expires:   Mon Aug 18 08:20:00 2025
+  
+      SHA1 hash: 906CC149415780CFB79F39E1CF449F87CA6D4D16
+  
+  
+      Issued to: WDKTestCert SamzyDev,133273862998191412
+  
+      Issued by: WDKTestCert SamzyDev,133273862998191412
+  
+      Expires:   Fri Apr 29 19:00:00 2033
+  
+      SHA1 hash: 442A2898A7AA193B33B81FC27E58E76357528BBD
+  
+  
+  After EKU filter, 6 certs were left.
+  After expiry filter, 6 certs were left.
+  After Hash filter, 1 certs were left.
+  After Private Key filter, 1 certs were left.
+  The following certificate was selected:
+      Issued to: WDKTestCert SamzyDev,133273862861599337
+  
+      Issued by: WDKTestCert SamzyDev,133273862861599337
+  
+      Expires:   Fri Apr 29 19:00:00 2033
+  
+      SHA1 hash: F55D02C03FC78CADC73E1DC54ADA792FA9C55602
+  
+  
+  Done Adding Additional Store
+  Successfully signed: C:\Users\SamzyDev\Documents\GitHub\dumper\UDCE\src\cheat-engine-master\Cheat Engine\bin\samtibirus64.sys
+  
+  
+  Number of files successfully Signed: 1
+  
+  Number of warnings: 0
+  
+  Number of errors: 0
+  
